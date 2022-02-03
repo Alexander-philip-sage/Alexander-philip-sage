@@ -9,6 +9,7 @@ https://github.com/Alexander-philip-sage/stock_challenge
 https://github.com/Alexander-philip-sage/extraction_challenge
 ## Data Science/ML
 https://github.com/Alexander-philip-sage/311_challenge
+
 https://github.com/Alexander-philip-sage/machine_learning_examples
 
 # Open Source Work
