@@ -1,5 +1,8 @@
 Username: @Alexander-philip-sage
+
 Occupation: Freelancer looking for work & CSO of Urban Farms
+
+Specialty: Data Science Deployment
 
 # Coding Challenges
 ## Probability/Math
