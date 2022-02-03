@@ -1,8 +1,8 @@
-Username: @Alexander-philip-sage
+**Username**: @Alexander-philip-sage
 
-Occupation: Freelancer looking for work & CSO of Urban Farms
+**Occupation**: Freelancer looking for work & CSO of Urban Farms
 
-Specialty: Data Science Deployment
+**Specialty**: Data Science Deployment
 
 # LinkedIn
 https://www.linkedin.com/in/alexanderpsage/
