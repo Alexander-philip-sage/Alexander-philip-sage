@@ -10,13 +10,14 @@ https://www.linkedin.com/in/alexanderpsage/
 # GitHub Index
 
 ## Coding Challenges
-### Probability/Math
-https://github.com/Alexander-philip-sage/mutual_information_challenge
-### Data Munging
-https://github.com/Alexander-philip-sage/stock_challenge
-https://github.com/Alexander-philip-sage/extraction_challenge
+### Algorithm Challenges
+https://github.com/Alexander-philip-sage/algorithm_challenges
+
+tags [Probability, Math, Data Munging, Python Syntax]
 ### Data Science/ML
 https://github.com/Alexander-philip-sage/311_challenge
+### Microsoft Word API
+https://github.com/Alexander-philip-sage/extraction_challenge
 
 https://github.com/Alexander-philip-sage/machine_learning_examples
 
