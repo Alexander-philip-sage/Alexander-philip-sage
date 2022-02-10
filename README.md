@@ -16,10 +16,10 @@ https://github.com/Alexander-philip-sage/algorithm_challenges
 tags [Probability, Math, Data Munging, Python Syntax]
 ### Data Science/ML
 https://github.com/Alexander-philip-sage/311_challenge
-### Microsoft Word API
-https://github.com/Alexander-philip-sage/extraction_challenge
 
 https://github.com/Alexander-philip-sage/machine_learning_examples
+### Microsoft Word API
+https://github.com/Alexander-philip-sage/extraction_challenge
 
 ## Open Source Work
 https://github.com/Alexander-philip-sage/ecprogram
