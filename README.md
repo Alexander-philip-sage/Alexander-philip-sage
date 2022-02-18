@@ -5,24 +5,24 @@
 **Specialty**: Data Science Deployment
 
 # LinkedIn
-https://www.linkedin.com/in/alexanderpsage/
+[Check out my CV and professional certifications](https://www.linkedin.com/in/alexanderpsage/)
 
 # GitHub Index
 
 ## Coding Challenges
 ### Algorithm Challenges
-https://github.com/Alexander-philip-sage/algorithm_challenges
+[Various algorithm challenges](https://github.com/Alexander-philip-sage/algorithm_challenges) found online and done for practice
 
 tags [Probability, Math, Data Munging, Python Syntax]
 ### Data Science/ML
-https://github.com/Alexander-philip-sage/311_challenge
+[311 Challenge](https://github.com/Alexander-philip-sage/311_challenge) - Data analysis of 311 calls made in NYC
 
-https://github.com/Alexander-philip-sage/machine_learning_examples
+[Machine Learning Examples](https://github.com/Alexander-philip-sage/machine_learning_examples) from courses I've taken saved here for syntax and model architecture reference
 ### Microsoft Word API
-https://github.com/Alexander-philip-sage/extraction_challenge
+[Extraction Challenge](https://github.com/Alexander-philip-sage/extraction_challenge) - extracting data from MS word document
 
 ## Open Source Work
-https://github.com/Alexander-philip-sage/ecprogram
+[EC Program](https://github.com/Alexander-philip-sage/ecprogram) - Webscraping a non-profit asked me to work on for free. It became a small POC to convince leadership to change their standard operating proceedures and integrate more software into their pipeline.
 
 ## Recursion
-https://github.com/Alexander-philip-sage/Alexander-philip-sage
+[Recursion](https://github.com/Alexander-philip-sage/Alexander-philip-sage)
