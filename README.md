@@ -1,6 +1,6 @@
 **Username**: @Alexander-philip-sage
 
-**Occupation**: Freelancer looking for work & CSO of Urban Farms
+**Occupation**: Data Scientist looking for work 
 
 **Specialty**: Data Science Deployment
 
