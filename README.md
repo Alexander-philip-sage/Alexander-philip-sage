@@ -11,7 +11,7 @@
 
 ## Coding Challenges
 ### Algorithm Challenges
-[Various algorithm challenges](https://github.com/Alexander-philip-sage/algorithm_challenges) found online and done for practice
+[24+ algorithm challenges](https://github.com/Alexander-philip-sage/algorithm_challenges) found online and done for practice
 
 tags [Probability, Math, Data Munging, Python Syntax]
 ### Data Science/ML
