@@ -13,7 +13,7 @@
 ### Algorithm Challenges
 [24+ algorithm challenges](https://github.com/Alexander-philip-sage/algorithm_challenges) found online and done for practice
 
-tags [Probability, Math, Data Munging, Python Syntax]
+Skills/Tools [C++, Python, Probability, Math, Data Munging, Python Syntax]
 ### Data Science/ML
 [311 Challenge](https://github.com/Alexander-philip-sage/311_challenge) - Data analysis of 311 calls made in NYC
 
