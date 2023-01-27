@@ -24,5 +24,8 @@ tags [Probability, Math, Data Munging, Python Syntax]
 ## Open Source Work
 [EC Program](https://github.com/Alexander-philip-sage/ecprogram) - Webscraping a non-profit asked me to work on for free. It became a small POC to convince leadership to change their standard operating proceedures and integrate more software into their pipeline.
 
+## Work Products
+[Work Products](https://github.com/Alexander-philip-sage/work_products) - Some code that I have created to accomplish deliverables. The deliverables and data are retained IP of the clients but the code was retained as my IP to share publicly.  
+
 ## Recursion
 [Recursion](https://github.com/Alexander-philip-sage/Alexander-philip-sage)
