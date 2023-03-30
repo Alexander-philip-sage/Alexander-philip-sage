@@ -2,8 +2,6 @@
 
 **Occupation**: Machine Learning Engineer at [Argonne National Lab](https://www.alcf.anl.gov/)
 
-**Specialty**: Data Science Deployment
-
 # LinkedIn
 [Check out my CV and professional certifications](https://www.linkedin.com/in/alexanderpsage/)
 
